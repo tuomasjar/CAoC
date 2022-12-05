@@ -26,7 +26,7 @@ void SolveDay1part1() {
 	}
 	fclose(fp);
 	printf("Result is:");
-	printf("%ld\nd",max);
+	printf("%ld\n",max);
 }
 
 void SolveDay1part2() {

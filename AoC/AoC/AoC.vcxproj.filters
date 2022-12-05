@@ -21,14 +21,23 @@
     <ClCompile Include="DayOne.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DayTwo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DayOne.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="DayTwo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="D1Input.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="D2Input.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
