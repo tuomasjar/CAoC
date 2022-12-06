@@ -5,6 +5,7 @@
 #include "DayThree.h"
 #include "DayFour.h"
 #include "DayFive.h"
+#include "DaySix.h"
 
 int main()
 {
@@ -15,8 +16,10 @@ int main()
 	SolveDay3Part1();
 	SolveDay3Part2();
 	SolveDay4Part1();
-	SolveDay4Part2();*/
+	SolveDay4Part2();
 	SolveDay5Part1();
-	SolveDay5Part2();
+	SolveDay5Part2();*/
+	SolveDay6Part1();
+	SolveDay6Part2();
 }
 
